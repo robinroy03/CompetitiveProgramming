@@ -1,4 +1,5 @@
-Win in a Board Game
+## Win in a Board Game
+
 In a board game, a pXp board is given and the cells of the board are numbered as follows.
 
  
