@@ -1,4 +1,4 @@
-## Length of Closed Figures
+# Length of Closed Figures
 Two lines P1 and P2 are said to be connected if the end point of P1 and start point of P2 are same. In this problem, there is a collection of points in a two dimensional space and the point numbers are given to represent a line. All the lines have distinct starting point and ending point. Given the start and end point numbers of ‘n’ lines and a check point number ‘p’ write a code to find out the length of the closed figure that can be formed that starts with the check point number ‘p’. For example, given ten pairs of point numbers for 10 lines as follows:
 
 (2, 5)
