@@ -1,2 +1,3 @@
-# VPROPEL-Solutions-CP
-VPROPEL is a platform by VIT where we get daily programming problems. These are my solutions for them :)
+My random competitive programming solutions
+
+VPROPEL problem of the day are a collection of questions from my school :) 
