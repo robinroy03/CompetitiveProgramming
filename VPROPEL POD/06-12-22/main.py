@@ -14,7 +14,7 @@ x = input() # prize of the guy to be found - his name given
 # --- all inputs received ---
 
 flag = l.index(l[first])  # initial flag
-perc = 100                #initial percentage
+perc = 100                # initial percentage
 
 while True:
     name = l[flag-1][0]   
