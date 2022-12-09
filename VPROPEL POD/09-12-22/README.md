@@ -14,4 +14,7 @@ Print the elements after swapping if not in tail greater order mentioned. Print 
 For example, 13 is greater than 41 since 3 the last digit of 13 is greater than 1 which is last digit of 41.
 253 is greater than 153 but lesser than 18.
 ```
-Given a collection of n integers with same number of digits, write code to swap adjacent elements if element in position ‘i+1’ is not tail greater than the element in position ‘i’. For example, given five integers 223, 131, 145, 144 and 315 after swap is done elements will be 131, 223, 144, 315, 145.
+Given a collection of n integers with same number of digits, write code to swap adjacent elements if element in position ‘i+1’ is not tail greater than the element in position ‘i’. 
+```
+For example, given five integers 223, 131, 145, 144 and 315 after swap is done elements will be 131, 223, 144, 315, 145.
+```
