@@ -1,4 +1,4 @@
-n = int(input())  # n many elements are being given
+n = int(input())  # n elements are being given
 l = []            # list storing the n elements : [1, 2, 3, ... ]
 
 for _ in range(n):  # accepting inputs from system
