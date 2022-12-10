@@ -5,7 +5,6 @@ for _ in range(n):  # accepting inputs from system
     l.append(int(input()))
 
 def big_factor(x):      # function to find the biggest factor excluding the number
-    max = 0
     for i in range(x//2,0,-1):
         if x%i == 0:
             return i
