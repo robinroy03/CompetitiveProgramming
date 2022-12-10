@@ -1,21 +1,13 @@
-n = int(input())  # n elements are being given
-l = []            # list storing the n elements : [1, 2, 3, ... ]
-
-for _ in range(n):  # accepting inputs from system
-    l.append(int(input()))
+n = int(input())
+l = [int(input()) for _ in range(n)]      # taking inputs from system
 
 def big_factor(x):      # function to find the biggest factor excluding the number
     for i in range(x//2,0,-1):
         if x%i == 0:
             return i
 
-big = []          # storing the big factors
-for i in l:     # appending to the list
-    big.append(big_factor(i))
+big = [big_factor(i) for i in l]          # storing the big factors
 
-k = list(zip(big,l))      # using zip to mix both number and biggest factor
-                        # [(12,6), (6,3), ... ]
-
-for i in range(len(k)): # checking the logic, and printing the numbers that satisfy
-    if k[i:][0][0] >= max(k[i:])[0]:
-        print(k[i:][0][1])
+for i in range(n): # checking the logic, and printing the numbers that satisfy
+    if big[i:][0] >= max(big[i:]):
+        print(l[i:][0])
