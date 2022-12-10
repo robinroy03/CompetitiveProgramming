@@ -6,10 +6,9 @@ for _ in range(n):  # accepting inputs from system
 
 def big_factor(x):      # function to find the biggest factor excluding the number
     max = 0
-    for i in range(1,x//2+1):
+    for i in range(x//2,0,-1):
         if x%i == 0:
-            max = i
-    return max
+            return i
 
 big = []          # storing the big factors
 for i in l:     # appending to the list
