@@ -1,7 +1,7 @@
 # Stock Market
-```
-Note: Students using C, C++ or Java to solve the problem have to use long int for the variables instead of int. The results are different and using long int gives the correct answer. The problem description is also modifed to add more clarity of what has to be done to handle overflow. Please try again with these suggestions so that your code may pass now
-```
+
+>Note: Students using C, C++ or Java to solve the problem have to use long int for the variables instead of int. The results are different and using long int gives the >correct answer. The problem description is also modifed to add more clarity of what has to be done to handle overflow. Please try again with these suggestions so that >your code may pass now
+
 In the stock market of the city Knowhere, the stock prices of a given day is calculated as 3 times the price of previous day plus 4 times the price of the day before yesterday.
 Given the prices on day 1 and day 2, answer Q queries asking you about the price of the stock on the Nth day.
 
