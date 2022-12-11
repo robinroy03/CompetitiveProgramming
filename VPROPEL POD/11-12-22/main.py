@@ -10,5 +10,4 @@ for i in range(3,max(l)+1):
             print(c%1000000007,end=' ')
         else:
             print(c,end=' ')
-    a = b
-    b = c
+    a, b = b, c
