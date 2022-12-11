@@ -1,6 +1,6 @@
 a, b = map(int,input().split())     # intial price day 1 2
 q = int(input())                    # number of queries
-l = list(map(int,input().split()))  # q space sep integers
+l = tuple(map(int,input().split()))  # q space sep integers
 
 print(a,b,end=' ')
 for i in range(3,max(l)+1):
