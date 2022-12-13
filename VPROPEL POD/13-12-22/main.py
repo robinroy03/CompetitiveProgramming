@@ -23,5 +23,4 @@ for r in matrix1:
     matrix3.append(temp_row)
 
 for i in matrix3:
-    print(*i,sep="\t",end="\t")
-    print()
+    print(*i,sep="\t",end="\t\n")
