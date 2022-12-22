@@ -38,8 +38,8 @@ for i in l:
 
 print(score)
 
-# code till now is perfect 
-
+# part 1 ^^
+# part 2 below 
 
 score_2=0
 
