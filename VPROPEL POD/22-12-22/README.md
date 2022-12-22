@@ -1,7 +1,7 @@
 # Matching index of a word and a number
 With the help of the following procedure, every word is represented as an integer with even number of digits and an integer with even number of digits,  is represented as a word, 
 
-Every symbol, A to Z is represented by the integers from 01 to 26 and vice versa. . The symbols from 'a' to 'z' is represented by the integers , from 27 to 52  A represents 01, B represents 02, and so on. Z represents 26.  Similarly  'a' represents 27, 'b' represents 28 and so on. z represents 52. The word  `abc' is represented by the intger 272829. Every symbol in `abc' is replaced by the respective integers.  `AbC' is represented by the integer 012803.  Note that the integer 012803 is not the same as the integer 12803.  
+Every symbol, A to Z is represented by the integers from 01 to 26 and vice versa. . The symbols from 'a' to 'z' is represented by the integers , from 27 to 52  A represents 01, B represents 02, and so on. Z represents 26.  Similarly  'a' represents 27, 'b' represents 28 and so on. z represents 52. The word  `abc' is represented by the intger 272829. Every symbol in "abc" is replaced by the respective integers.  "AbC" is represented by the integer 012803.  Note that the integer 012803 is not the same as the integer 12803.  
 
  By the following procedure, any  positive integer with even number of digits is represented as  a word , 
 
