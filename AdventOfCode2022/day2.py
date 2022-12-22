@@ -1,4 +1,4 @@
-f=open("C:/Users/robin/Downloads/aoc/input_day2.txt",'r')
+f=open("input_day2.txt",'r')
 l=f.readlines()
 f.close()
 
