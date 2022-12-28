@@ -3,9 +3,9 @@ In a cinema theatre named 'w', with `n' seats, whenever the theatre is full (i.e
 
 Character allotment process :
 
-1. Starting from the first seat, allot a character  of `w' ( starting from the first character) to each seat.  That is, allot the first character of w to the seat no.1, allot the second character of  `w' to the seat no.2 and so on.
+1. Starting from the first seat, allot a character  of "w" ( starting from the first character) to each seat.  That is, allot the first character of w to the seat no.1, allot the second character of  `w' to the seat no.2 and so on.
 
-2. If all the characters of `w' are allotted, then continue the allotment from the first symbol of `w' again.
+2. If all the characters of "w" are allotted, then continue the allotment from the first symbol of "w" again.
 
 3. After allotting a character to the last seat, continue the allotment process by allotting the next character (character,  next to the character allotted to the last seat earlier) from the last seat 
 
