@@ -30,10 +30,10 @@ Example 2
 
 No
 ```
-Input Format
+### Input Format
 
 First line contains the number n
 
-Output format
+### Output format
 
 Print the number of steps taken for transformation or No
