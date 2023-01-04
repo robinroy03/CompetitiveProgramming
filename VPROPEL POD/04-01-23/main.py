@@ -29,7 +29,7 @@ A lotta ngo people send up requests to an mnc. Multiple people from same ngo
 could apparently send reqs too. 
 When they send req they send how many are in the group "excluding" them.
 
-eg: dude say's 3 --> he means there are 4 people in the group including him
+eg: dude says 3 --> he means there are 4 people in the group including him
 
 when 4 people say 3 --> it means 4 people "might" be from same ngo coz
 when group of 4, they send 3... uhh.. got it?
