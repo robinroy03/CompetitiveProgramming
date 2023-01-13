@@ -6,7 +6,7 @@ Each file is a descendant of ‘/’. A directory is a special kind of file that
 For example: consider this:
 
  
-[ image ]
+![image](https://github.com/robinroy03/CompetitiveProgramming/blob/main/VPROPEL%20POD/13-01-23/download.png)
 
 Now consider if we have to move a file named a.txt from ‘/home/user/’ to ‘/opt/java’. We see that a file named a.txt already exists at the given location, so we cannot move it, however we can move ‘/usr/local/x.cpp’ to ‘/home/user/’ as there is no naming conflict. The names of all files are internally represented using IDs which are natural numbers. For example ‘/’ may have an id of 1, ‘home’ may have an id of 2 and ‘a.txt’ may have an id of 62 and so on.... each of these files have a corresponding ID. You will be asked various queries of the `<source> <destination> <filename>` and you have to tell ‘yes’ or ‘no’ (without quotes) if the files can be moved from source to destination or not.
 
