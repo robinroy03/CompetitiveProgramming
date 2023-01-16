@@ -13,7 +13,7 @@ for _ in range(q):
     if i == '2':
         print(len(stack))
     else:
-        k, color = i.split()
+        _, color = i.split()
         
         if len(stack) != 0:
             if stack[-1] == color:
