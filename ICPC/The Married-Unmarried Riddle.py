@@ -6,7 +6,6 @@ import re
 # married --> unmarried
 for _ in range(int(input())):
     s = input() # the string in consideration
-    # we should find MMU or M?U
     if re.search("M\?*U",s) or re.search("MU",s):
         print("Yes")
     else:
